@@ -8,15 +8,15 @@ This paper presents an IGSIDSC for grid integration of solar and fuel cells, ach
 
 The Proposed converter has the following advantages:
 
-    Higher gain with a reduced operating duty-ratio.
+   Higher gain with a reduced operating duty-ratio.
 
-    Minimizes voltage stress on switches and diodes.
+   Minimizes voltage stress on switches and diodes.
 
-    Common ground and less component count.
+   Common ground and less component count.
 
-    Utilisation of SiC devices and single inductor reduces the size and improves the efficiency. 
+   Utilisation of SiC devices and single inductor reduces the size and improves the efficiency. 
 
-    The converter can be suitably employed to achieve higher voltage levels from sources like PV and fuel cells.
+   The converter can be suitably employed to achieve higher voltage levels from sources like PV and fuel cells.
 
 Simulation Details:
 
