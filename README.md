@@ -4,20 +4,20 @@ Design and Analysis of an Improved Gain Single Inductor Dual Switch DC-DC Conver
 
 Overview of the Proposed Converter:
 
-This paper presents an IGSIDSC for grid integration of solar and fuel cells, achieving high voltage gain at a reduced duty ratio (<50%). The design minimizes losses, reduces voltage stress, and enables cost-effective component selection. A common ground configuration mitigates dv/dt issues. A 200W prototype validates its steady-state and dynamic performance.
+     This paper presents an IGSIDSC for grid integration of solar and fuel cells, achieving high voltage gain at a reduced duty ratio (<50%). The design minimizes losses, reduces voltage stress, and enables cost-effective component selection. A common ground configuration mitigates dv/dt issues. A 200W prototype validates its steady-state and dynamic performance.
 
 The Proposed converter has the following advantages:
 
-Higher gain with a reduced operating duty-ratio.
+    Higher gain with a reduced operating duty-ratio.
 
-Minimizes voltage stress on switches and diodes.
+    Minimizes voltage stress on switches and diodes.
 
-Common ground and less component count.
+    Common ground and less component count.
 
-Utilisation of SiC devices and single inductor reduces the size and improves the efficiency. 
+    Utilisation of SiC devices and single inductor reduces the size and improves the efficiency. 
 
-The converter can be suitably employed to achieve higher voltage levels from sources like PV and fuel cells.
+    The converter can be suitably employed to achieve higher voltage levels from sources like PV and fuel cells.
 
 Simulation Details:
 
-All the M-files used for generating the plots of the proposed converter were simulated in MATLAB 2024b. The circuit diagram of the proposed converter was simulated using PSIM software. The circuit parameters include a 5mH inductor, a switching frequency of 50kHz, and capacitors C1 to C5, each valued at 10µF. The input voltage is 48V, the output voltage is 650V, and the power rating is 200W.
+    All the M-files used for generating the plots of the proposed converter were simulated in MATLAB 2024b. The circuit diagram of the proposed converter was simulated using PSIM software. The circuit parameters include a 5mH inductor, a switching frequency of 50kHz, and capacitors C1 to C5, each valued at 10µF. The input voltage is 48V, the output voltage is 650V, and the power rating is 200W.
