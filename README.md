@@ -21,4 +21,4 @@ The Proposed converter has the following advantages:
 
 Simulation Details:
 
-All the M-files used for generating the plots of the proposed converter were simulated in MATLAB. The circuit diagram of the proposed converter was simulated using PSIM software. The circuit parameters include a 5mH inductor, a switching frequency of 50kHz, and capacitors C1 to C5, each valued at 10µF. The input voltage is 48V, the output voltage is 650V, and the power rating is 200W.
+All the M-files used for generating the plots of the proposed converter were simulated in MATLAB. The circuit diagram of the proposed converter was simulated using PSIM software. The circuit parameters include a 5mH inductor, a switching frequency of 50kHz, and capacitors C1 to C5, each valued at 10µF. The input voltage is 48V, and the output voltage is 650V.
